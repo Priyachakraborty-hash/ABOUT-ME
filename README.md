@@ -1,8 +1,8 @@
 💫 Hi, I’m Priya Chakraborty
 
 🎓 MS in Computer Science (AI Track) @ Binghamton University
-💻 Ex–Software Engineer (6+ years) | HCL Technologies & Tata Consultancy Services
-🚀 Aspiring SRE / Software Engineer Intern (Summer 2025)
+💻 Ex–Software Engineer (6+ years) 
+🚀 Aspiring SRE 
 
 💡 About Me
 
