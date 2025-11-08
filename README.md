@@ -25,7 +25,6 @@ Tools: Git | GitHub Actions | IntelliJ | STS | VS Code | Android Studio
 
 ☁️ Cloud Engineering → Containerizing microservices & deploying on AWS/GCP
 
-📈 Data Projects → Sentiment Analysis on IMDb Reviews & Enron Email Mining
 
 🤖 System Programming (Rust) → “Hashassin” — a multithreaded password cracker CLI
 
@@ -47,10 +46,9 @@ Advocate for ethical technology, inclusion, and mental wellness
 
 Love creating aesthetic, floral-themed UIs & writing poetic bios 🌺
 
-Gym enthusiast — focused on strength, balance, and self-discipline 🏋️‍♀️
 
 📫 Let’s Connect
 📧 chakrabortypriya730@gmail.com /pchakraborty@binghamton.edu
  
 
-✨ “Engineering isn’t just about solving problems it’s about understanding people, designing with empathy, and leaving systems better than we found them.”
+✨ “Engineering isn’t just about solving problems it’s about understanding people,designing with empathy,and leaving systems better than we found them.”
