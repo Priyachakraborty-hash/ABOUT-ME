@@ -9,7 +9,7 @@
 I’m a passionate engineer who thrives at the intersection of software engineering, cloud infrastructure, backend engineering
 My journey has evolved from building large-scale Java Spring Boot microservices to architecting secure, scalable DevOps pipelines and deploying AI models for real-world impact.
 
-When I’m not debugging distributed systems or optimizing CI/CD pipelines, you’ll find me reading about women’s rights, and peacebuilding — because I believe that technology and empathy together build better futures.
+When I’m not debugging distributed systems or optimizing CI/CD pipelines, you’ll find me reading about women’s rights, and peacebuilding because I believe that technology and empathy together build better futures.
 
 🧩 Technical Stack
 
