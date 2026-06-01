@@ -26,25 +26,7 @@ Tools: Git | GitHub Actions | IntelliJ | STS | VS Code | Android Studio
 ☁️ Cloud Engineering → Containerizing microservices & deploying on AWS/GCP
 
 
-🤖 System Programming (Rust) → “Hashassin” — a multithreaded password cracker CLI
 
-🏆 Highlights
-
-🛡️ Reduced manual key-rotation effort by 70% via AWS IAM automation
-
-🔐 Achieved 100% reduction in XSS/SQL injection vulnerabilities through secure coding
-
-⚙️ Migrated legacy monolith to RESTful microservices, cutting downtime by 50%
-
-📊 Improved forecasting accuracy by 40% using OOP & data-driven architecture
-
-🧭 Enhanced deployment efficiency by 90% via SQL automation & CI/CD pipelines
-
-🌸 Beyond Tech
-
-Advocate for ethical technology, inclusion, and mental wellness
-
-Love creating aesthetic, floral-themed UIs & writing poetic bios 🌺
 
 
 📫 Let’s Connect
