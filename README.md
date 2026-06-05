@@ -21,7 +21,7 @@ Tools: Git | GitHub Actions | IntelliJ | STS | VS Code | Android Studio
 
 ⚙️ What I’m Working On
 
-🧠 AI + Infra → CRNN text recognition system & Prometheus, Grafana monitoring setup
+🧠 AI + Infra projects .....
 
 ☁️ Cloud Engineering → Containerizing microservices & deploying on AWS/GCP
 
