@@ -18,19 +18,3 @@ Frameworks: Spring Boot | Flask | TensorFlow | PyTorch | OpenCV
 Cloud & DevOps: AWS | GCP | Docker | Kubernetes | Terraform | Jenkins | Prometheus | Grafana
 Databases: MySQL | PostgreSQL | DB2 | Oracle
 Tools: Git | GitHub Actions | IntelliJ | STS | VS Code | Android Studio
-
-⚙️ What I’m Working On
-
-🧠 AI + Infra projects .....
-
-☁️ Cloud Engineering → Containerizing microservices & deploying on AWS/GCP
-
-
-
-
-
-📫 Let’s Connect
-📧 chakrabortypriya730@gmail.com /pchakraborty@binghamton.edu
- 
-
-✨ “Engineering isn’t just about solving problems it’s about understanding people,designing with empathy,and leaving systems better than we found them.”
