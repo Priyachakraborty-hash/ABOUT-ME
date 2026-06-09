@@ -1,4 +1,4 @@
-💫 Hi, I’m Priya Chakraborty
+Hi, I’m Priya 
 
 🎓 MS in Computer Science (AI Track) @ Binghamton University
 💻 Ex–Software Engineer (6+ years) 
